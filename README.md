@@ -10,3 +10,8 @@ Sözcü.com.tr sitesindeki sinir bozucu reklamları adblocker kullanmadan kaldı
 Sonuç:
 
 ![Reklamsız hali](https://github.com/altunoren/sozcuadblock/blob/main/reklamsiz.jpg?raw=true)
+
+
+Eski Hali:
+
+![Reklamlı hali](https://github.com/altunoren/sozcuadblock/blob/main/reklamli.jpg?raw=true)
