@@ -1,4 +1,4 @@
-# Sözcü Adblock kullanmadan reklam kaldırma
+# Sözcü Haber Sitesi için Adblock kullanmadan reklam kaldırma
 Sözcü.com.tr sitesindeki sinir bozucu reklamları adblocker kullanmadan kaldırma yöntemi.
 
 
