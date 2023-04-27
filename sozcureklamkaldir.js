@@ -13,15 +13,15 @@
     'use strict';
 
     var intervalId = setInterval(function() {
-        // adInitRemove sınıfıyla tüm öğelerin bir listesini alın
-        var elementsToRemove = document.querySelectorAll('.ads, .stickyDesktopContainer');
+        // Get a list of all elements with class adInitRemove
+        var elementsToRemove = document.querySelectorAll('.ads, .stickyDesktopContainer, .content-inner-ad');
 
-        // Listede dolaşın ve her öğeyi kaldırın
+        // Loop through the list and remove each element
         for (var i = 0; i < elementsToRemove.length; i++) {
             elementsToRemove[i].remove();
         }
 
-        // Kaldırılacak başka öğe olup olmadığını kontrol et ve yok ise interval ı durdur. 
+        // Stop checking if there are no more elements to remove
         if (elementsToRemove.length === 0) {
             clearInterval(intervalId);
         }
