@@ -15,3 +15,8 @@ Sonuç:
 Eski Hali:
 
 ![Reklamlı hali](https://github.com/altunoren/sozcuadblock/blob/main/reklamli.jpg?raw=true)
+
+
+
+Güncellemeler: 
+* .content-inner-ad * yazı için reklam kısmı getirilmiş o da kaldırıldı. 
